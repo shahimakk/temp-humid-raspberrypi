@@ -7,11 +7,12 @@ This script monitors temperature and humidity using a DHT22 sensor and prints th
 1. Clone the repository:
 
    git clone https://github.com/shahimakk/temperature-humidity-monitor.git
+   
    cd temperature-humidity-monitor
    
-2. Install the required libraries:
+3. Install the required libraries:
    pip install adafruit-circuitpython-dht
 
-3. Run the code using:
+4. Run the code using:
    python temperature_humidity_monitor.py
 
